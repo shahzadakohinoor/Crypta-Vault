@@ -1,9 +1,9 @@
-# ⚛️ Crypta-Vault Identity Vault
+# ⚛️ Crypta-Vault [Identity Vault]
 ### Secure Financial & Government Services Protocol
 [![Domain: FinTech](https://img.shields.io/badge/Domain-FinTech-blue)](#)
 [![Domain: Web3](https://img.shields.io/badge/Domain-Web3-orange)](#)
 [![Domain: AI/ML](https://img.shields.io/badge/Domain-AI%2FML-green)](#)
-
+[![Domain: Governance](https://img.shields.io/badge/Domain-Governance-pink)](#)
 ## 🧩 Problem Statement
 In today’s digital age, both financial services (loans, KYC, insurance) and government services (permits, grievances, welfare schemes) depend heavily on identity verification. Current systems face several critical challenges:
 
@@ -48,6 +48,8 @@ The proposed **Decentralized Digital Identity Vault** creates a secure, transpar
 * Only strictly required data is accessed for specific use cases like filing grievances or applying for permits.
 
 ---
+## **FLOWCHART**
+![WhatsApp Image 2025-12-29 at 2 31 26 PM](https://github.com/user-attachments/assets/f9f9f5da-e762-412e-930d-dcf058646838)
 
 
 ## 🌍 Real-World Impact
